@@ -1,0 +1,20 @@
+{
+  "abi": [],
+  "bytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "linkReferences": {}
+  },
+  "ast": {
+    "absolutePath": "test/PancakeSwap_v2.sol",
+    "id": 42346,
+    "exportedSymbols": {},
+    "nodeType": "SourceUnit",
+    "src": "0:0:43",
+    "nodes": []
+  },
+  "id": 43
+}
